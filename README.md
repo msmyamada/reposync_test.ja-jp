@@ -1,0 +1,1 @@
+# reposync_test.ja-jp
